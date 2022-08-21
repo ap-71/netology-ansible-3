@@ -1,6 +1,6 @@
 08-ansible-03-role
 
-Задание: https://github.com/panarin0290/devops-netology/tree/main/8.3
+Задание: https://github.com/panarin0290/devops-netology/8.3
 
 # Playbook с ролями для установки Java, Elasticsearch и Kibana
 
